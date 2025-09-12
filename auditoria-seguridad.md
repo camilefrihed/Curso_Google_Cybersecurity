@@ -1,4 +1,4 @@
-# 🔒 Auditoría de Seguridad – Botium Toys  
+# Auditoría de Seguridad – Botium Toys  
 
 ![Status](https://img.shields.io/badge/Status-Finalizado-brightgreen?style=flat-square)  
 ![Compliance](https://img.shields.io/badge/Compliance-PCI%20DSS%20%7C%20GDPR%20%7C%20SOC-important?style=flat-square)  
@@ -6,7 +6,7 @@
 
 ---
 
-## 📌 1. Alcance y Objetivos  
+## 1. Alcance y Objetivos  
 
 **Alcance:**  
 - Activos físicos y digitales de empleados  
@@ -39,7 +39,7 @@
 
 ---
 
-## 🛡️ 3. Controles Administrativos  
+##  3. Controles Administrativos  
 
 | Control | Tipo | Estado | Observaciones |
 |---------|------|--------|---------------|
@@ -51,7 +51,7 @@
 
 ---
 
-## 🖥️ 4. Controles Técnicos  
+## 4. Controles Técnicos  
 
 | Control | Tipo | Estado | Observaciones |
 |---------|------|--------|---------------|
@@ -64,7 +64,7 @@
 
 ---
 
-## 🏢 5. Controles Físicos  
+##  5. Controles Físicos  
 
 | Control | Tipo | Estado | Observaciones |
 |---------|------|--------|---------------|
@@ -76,15 +76,15 @@
 
 ---
 
-## 📜 6. Cumplimiento Normativo  
+##  6. Cumplimiento Normativo  
 
-### 🔑 PCI DSS  
+###  PCI DSS  
 - ❌ Acceso restringido a datos  
 - ❌ Procesamiento seguro  
 - ❌ Cifrado de datos  
 - ❌ Políticas de contraseñas  
 
-### 🌍 GDPR  
+###  GDPR  
 - ⚠️ Control de acceso insuficiente  
 - ✅ Notificación en 72h  
 - ❌ Inventario de datos inexistente  
@@ -98,7 +98,7 @@
 
 ---
 
-## 💡 7. Recomendaciones  
+##  7. Recomendaciones  
 
 1. Implementar **menor privilegio** y separación de funciones.  
 2. Instalar **IDS/IPS** para monitoreo de red.  
