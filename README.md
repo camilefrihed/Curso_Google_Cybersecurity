@@ -78,5 +78,3 @@ Este repositorio contiene las actividades realizadas durante el **Programa de Ce
 **Repositorio Principal:** [Curso Google Cybersecurity](https://github.com/camilefrihed/Curso_Google_Cybersecurity)
 
 ---
-
-*Este portafolio demuestra las competencias técnicas adquiridas durante el programa de certificación de Google Cybersecurity. Todos los proyectos se basan en escenarios prácticos y casos de estudio del mundo real.* 🛡️
